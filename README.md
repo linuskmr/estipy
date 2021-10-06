@@ -19,6 +19,8 @@ for num, _ in ETA(data):
 # 13/42 = 31.0%, ETA Delta 0:00:02.685864, ETA 2021-07-04 14:50:12.486002
 ```
 
+[Try it online](https://replit.com/@linuskmr/estipyexamples)
+
 Or disable auto print and access all eta data
 
 ```python
