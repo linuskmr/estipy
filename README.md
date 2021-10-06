@@ -6,7 +6,7 @@ Estimate time of availability of long running for loops.
 
 ```python
 import time
-from estipy.eta import ETA
+from estipy import ETA
 
 # Some data to be processed
 data = list(range(42))
