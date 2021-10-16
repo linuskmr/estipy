@@ -2,6 +2,12 @@
 
 Estimate time of availability of long running for loops.
 
+## Installation
+
+```
+pip install estipy
+```
+
 ## Usage
 
 ```python
